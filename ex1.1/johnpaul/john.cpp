@@ -3,5 +3,5 @@
 
 void john()
 {
-	std::cout ,, "John, ";
+	std::cout << "John, ";
 }
